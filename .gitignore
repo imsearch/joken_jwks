@@ -22,3 +22,4 @@ erl_crash.dump
 # Ignore package tarball (built via "mix hex.build").
 joken_jwks_hook-*.tar
 
+.elixir_ls
